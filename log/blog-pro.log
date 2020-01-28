@@ -1,0 +1,22 @@
+2020-01-28 16:31:58.027  INFO 240 --- [restartedMain] com.lh.blog.BlogApplication              : Starting BlogApplication on LHCOMPUTER with PID 240 (D:\Java\ideaProject\blog\target\classes started by 79329 in D:\Java\ideaProject\blog)
+2020-01-28 16:31:58.027  INFO 240 --- [restartedMain] com.lh.blog.BlogApplication              : The following profiles are active: pro
+2020-01-28 16:31:58.493  WARN 240 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2020-01-28 16:31:58.542  WARN 240 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-01-28 16:31:58.644  WARN 240 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2020-01-28 16:31:58.739  INFO 240 --- [restartedMain] com.lh.blog.BlogApplication              : Started BlogApplication in 0.753 seconds (JVM running for 157.364)
+2020-01-28 16:32:25.370  INFO 2144 --- [restartedMain] com.lh.blog.BlogApplication              : Starting BlogApplication on LHCOMPUTER with PID 2144 (D:\Java\ideaProject\blog\target\classes started by 79329 in D:\Java\ideaProject\blog)
+2020-01-28 16:32:25.373  INFO 2144 --- [restartedMain] com.lh.blog.BlogApplication              : The following profiles are active: pro
+2020-01-28 16:32:27.336  WARN 2144 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2020-01-28 16:32:27.665  WARN 2144 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-01-28 16:32:27.886  WARN 2144 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2020-01-28 16:32:28.012  INFO 2144 --- [restartedMain] com.lh.blog.BlogApplication              : Started BlogApplication in 3.223 seconds (JVM running for 4.189)
+2020-01-28 16:33:47.028  INFO 2144 --- [restartedMain] com.lh.blog.BlogApplication              : Starting BlogApplication on LHCOMPUTER with PID 2144 (D:\Java\ideaProject\blog\target\classes started by 79329 in D:\Java\ideaProject\blog)
+2020-01-28 16:33:47.029  INFO 2144 --- [restartedMain] com.lh.blog.BlogApplication              : The following profiles are active: pro
+2020-01-28 16:33:47.487  WARN 2144 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-01-28 16:33:47.602  WARN 2144 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2020-01-28 16:33:47.657  INFO 2144 --- [restartedMain] com.lh.blog.BlogApplication              : Started BlogApplication in 0.673 seconds (JVM running for 83.834)
+2020-01-28 16:34:47.919  INFO 1136 --- [restartedMain] com.lh.blog.BlogApplication              : Starting BlogApplication on LHCOMPUTER with PID 1136 (D:\Java\ideaProject\blog\target\classes started by 79329 in D:\Java\ideaProject\blog)
+2020-01-28 16:34:47.921  INFO 1136 --- [restartedMain] com.lh.blog.BlogApplication              : The following profiles are active: pro
+2020-01-28 16:34:49.925  WARN 1136 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-01-28 16:34:50.135  WARN 1136 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2020-01-28 16:34:50.258  INFO 1136 --- [restartedMain] com.lh.blog.BlogApplication              : Started BlogApplication in 2.899 seconds (JVM running for 3.713)
